@@ -1,10 +1,33 @@
 # Hi, I'm Abebe Bihonegn Wondie 👋
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/AbebeQ/AbebeQ/main/assets/profile-banner.png" alt="Profile banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/AbebeQ.png" width="180" height="180" alt="Abebe Bihonegn" style="border-radius:50%;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Backend+Engineer;Mobile+Developer" alt="Typing SVG" />
 </p>
 
-I build practical, secure, and scalable digital products with a strong focus on architecture, performance, and real-world impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abebe-bihonegn-7ab03426b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AbebeQ">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:bihonegnabebe9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://abebebihonegn.com">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+I build practical, secure, and scalable digital products with a strong focus on architecture, reliability, and real-world impact.
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -18,7 +41,7 @@ I build practical, secure, and scalable digital products with a strong focus on 
 
 ## About Me
 
-I am a software engineer based in Addis Ababa, Ethiopia, with experience in full-stack development, backend engineering, enterprise software, and mobile application development. I enjoy building systems that solve real-world problems and designing solutions that are both technically strong and user-friendly.
+I am a software engineer based in Addis Ababa, Ethiopia, with experience in full-stack development, backend engineering, enterprise software, and mobile application development. I enjoy building systems that solve real problems and designing solutions that are both technically strong and user-friendly.
 
 ## Core Skills
 
@@ -82,17 +105,11 @@ I am a software engineer based in Addis Ababa, Ethiopia, with experience in full
 - Financial Accounting
 - Employability Skills and Job Readiness
 
-## Portfolio & Contact
-
-- Portfolio: https://abebebihonegn.com
-- LinkedIn: https://www.linkedin.com/in/abebe-bihonegn-7ab03426b/
-- GitHub: https://github.com/AbebeQ
-- Email: bihonegnabebe9@gmail.com
-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbebeQ&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbebeQ&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbebeQ&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 > Building solutions that are practical, secure, and meaningful.
